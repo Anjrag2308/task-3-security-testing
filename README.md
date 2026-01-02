@@ -4,8 +4,7 @@ CODTECH Internship Task 3: Security Testing - Comprehensive security testing ana
 
 ## 🎬 Live Demo
 
-**[View Interactive Demo](https://htmlpreview.github.io/?https://github.com/wasimahamadsamani/task-3-security-testing/blob/main/SECURITY-DEMO.html)**
-
+**[View Interactive Demo](https://htmlpreview.github.io/?https://github.com/Anjrag2308/task-3-security-testing/blob/main/SECURITY-DEMO.html)**
 ## Project Overview
 
 This repository contains comprehensive security testing analysis for web applications, identifying and documenting vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and other OWASP Top 10 vulnerabilities.
